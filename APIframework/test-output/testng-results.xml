@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-23T14:39:31Z" name="Suite" finished-at="2021-11-23T14:39:33Z" duration-ms="2631">
+    <groups>
+    </groups>
+    <test started-at="2021-11-23T14:39:31Z" name="Test" finished-at="2021-11-23T14:39:33Z" duration-ms="2631">
+      <class name="or.testing.TestScripts.TC3_GetAll">
+        <test-method signature="Testcase3()[pri:0, instance:or.testing.TestScripts.TC3_GetAll@22ef9844]" started-at="2021-11-23T09:39:33Z" name="Testcase3" finished-at="2021-11-23T09:39:33Z" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase3 -->
+      </class> <!-- or.testing.TestScripts.TC3_GetAll -->
+      <class name="or.testing.TestScripts.TC4_GetAll_FetchID">
+        <test-method signature="Testcase4()[pri:0, instance:or.testing.TestScripts.TC4_GetAll_FetchID@169e6180]" started-at="2021-11-23T09:39:32Z" name="Testcase4" finished-at="2021-11-23T09:39:32Z" duration-ms="99" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase4 -->
+      </class> <!-- or.testing.TestScripts.TC4_GetAll_FetchID -->
+      <class name="or.testing.TestScripts.TC5_Put">
+        <test-method signature="Tsetcase5()[pri:0, instance:or.testing.TestScripts.TC5_Put@7205765b]" started-at="2021-11-23T09:39:33Z" name="Tsetcase5" finished-at="2021-11-23T09:39:33Z" duration-ms="81" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tsetcase5 -->
+      </class> <!-- or.testing.TestScripts.TC5_Put -->
+      <class name="or.testing.TestScripts.TC1_PostRequest">
+        <test-method signature="firstTC()[pri:0, instance:or.testing.TestScripts.TC1_PostRequest@35aea049]" started-at="2021-11-23T09:39:32Z" name="firstTC" finished-at="2021-11-23T09:39:33Z" duration-ms="674" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTC -->
+      </class> <!-- or.testing.TestScripts.TC1_PostRequest -->
+      <class name="or.testing.TestScripts.TC6_Delete">
+        <test-method signature="Testcase6()[pri:0, instance:or.testing.TestScripts.TC6_Delete@56cdfb3b]" started-at="2021-11-23T09:39:31Z" name="Testcase6" finished-at="2021-11-23T09:39:32Z" duration-ms="1634" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase6 -->
+      </class> <!-- or.testing.TestScripts.TC6_Delete -->
+      <class name="or.testing.TestScripts.TC2_GetRequest">
+        <test-method signature="Testcase2()[pri:0, instance:or.testing.TestScripts.TC2_GetRequest@47987356]" started-at="2021-11-23T09:39:33Z" name="Testcase2" finished-at="2021-11-23T09:39:33Z" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase2 -->
+      </class> <!-- or.testing.TestScripts.TC2_GetRequest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
